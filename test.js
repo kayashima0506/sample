@@ -1,3 +1,5 @@
 let a=100;
 let b=200;
-console.log("a+b=",a+b);
+
+let date = new Date();
+console.log("今の日付",date);
