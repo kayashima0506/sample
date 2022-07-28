@@ -11,7 +11,6 @@ const server = http.createServer((req, res) => {
     res.end();
 
     if (req.method === "GET") {
-     
         
     }
 
