@@ -1,3 +1,5 @@
+// const quiz = require("../quiz/quiz.json").quiz;
+
 let quiz = [
     {
         question: "海軍基地に磔になっていたゾロに、おにぎりをあげた少女の名前は次の内どれ。",
@@ -21,6 +23,7 @@ let quiz = [
         correct: 'パー'
     }
 ];
+
 
 const $button = document.getElementsByTagName('button');
 const buttonLength = $button.length;
